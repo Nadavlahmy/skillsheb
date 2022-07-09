@@ -1,0 +1,67 @@
+img {
+	width: 300;
+	border: 3px solid black;
+
+}	
+
+.red {
+	color: red;
+	
+}
+
+.bigFont {
+	font-size: 30px;
+	
+}
+.midfont {
+	font-size: 20px;
+	
+}
+
+
+.brown {
+	color: brown;
+	
+}
+
+#cool {
+	border: 3px solid red;
+	background-color: yellow;
+	
+}
+
+#cool2 {
+	border: 3px solid gold;
+	background-color: purple;
+	
+}	
+
+#cool3 {
+	border: 3px solid white;
+	background-color: green;
+	
+}
+#cool4 {
+	border: 3px solid yellow;
+	background-color: green;
+	
+}
+
+
+.topnav {
+    overflow:5px hidden;
+    background-color: white;
+}
+
+
+<style>
+p {
+  background-image: url('segabackgrnd.jpg');
+}
+</style>
+
+
+a:hover {
+  background-color: yellow;
+}
+
